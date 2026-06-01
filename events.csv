@@ -1,53 +1,55 @@
-Name, Start date, Start time, End date, End Time, Description, URL, Latitude, Longitude
-Didcot repair cafe, 2025-07-19, 14:00:00, 2025-07-19, 17:00:00, "Volunteer repair and help fixing clothes, electronics, tools, and all sorts of other things", "", 51.610007, -1.241605
-Didcot repair cafe, 2025-08-16, 14:00:00, 2025-08-16, 17:00:00, "Volunteer repair and help fixing clothes, electronics, tools, and all sorts of other things", "", 51.610007, -1.241605
-Didcot repair cafe, 2025-09-20, 14:00:00, 2025-09-20, 17:00:00, "Volunteer repair and help fixing clothes, electronics, tools, and all sorts of other things", "", 51.610007, -1.241605
-Didcot repair cafe, 2025-10-18, 14:00:00, 2025-10-18, 17:00:00, "Volunteer repair and help fixing clothes, electronics, tools, and all sorts of other things", "", 51.610007, -1.241605
-Didcot repair cafe, 2025-11-15, 14:00:00, 2025-11-15, 17:00:00, "Volunteer repair and help fixing clothes, electronics, tools, and all sorts of other things", "", 51.610007, -1.241605
-Didcot repair cafe, 2025-12-20, 14:00:00, 2025-12-20, 17:00:00, "Volunteer repair and help fixing clothes, electronics, tools, and all sorts of other things", "", 51.610007, -1.241605
+Name,Start date,Start time,End date,End Time,Description,URL,Latitude,Longitude
+Makers Hour,2025-07-17,20:00:00,2025-07-17,21:00:00,Chat and question session on mastodon,https://cupoftea.social/@MakersHour,,
+Didcot repair cafe,2025-07-19,14:00:00,2025-07-19,17:00:00,"Volunteer repair and help fixing clothes, electronics, tools, and all sorts of other things",,51.610007,-1.241605
+Makers Hour,2025-07-24,20:00:00,2025-07-24,21:00:00,Chat and question session on mastodon,https://cupoftea.social/@MakersHour,,
+Tech Talks Pesda,2025-07-30,18:30,2025-07-30,20:30:00,"Ymunwch â ni yng Nghanolfan Cefnfaes rhwng 6.30 ac 8.30pm ar nos Fercher 30 Gorffennaf am amrywiaeth o sgyrsiau sy'n ymwneud â thechnoleg a rhwydweithio. Eisiau rhoi cyflwyniad? Oes gennych chi rywbeth i'w rannu? Cysylltwch â ni!
 
-Makers Hour, 2025-07-17, 20:00:00, 2025-07-17, 21:00:00, "Chat and question session on mastodon", "https://cupoftea.social/@MakersHour", , 
-Makers Hour, 2025-07-24, 20:00:00, 2025-07-24, 21:00:00, "Chat and question session on mastodon", "https://cupoftea.social/@MakersHour", , 
-Makers Hour, 2025-07-31, 20:00:00, 2025-07-31, 21:00:00, "Chat and question session on mastodon", "https://cupoftea.social/@MakersHour", , 
-Makers Hour, 2025-08-07, 20:00:00, 2025-08-07, 21:00:00, "Chat and question session on mastodon", "https://cupoftea.social/@MakersHour", , 
-Makers Hour, 2025-08-14, 20:00:00, 2025-08-14, 21:00:00, "Chat and question session on mastodon", "https://cupoftea.social/@MakersHour", , 
-Makers Hour, 2025-08-21, 20:00:00, 2025-08-21, 21:00:00, "Chat and question session on mastodon", "https://cupoftea.social/@MakersHour", , 
-Makers Hour, 2025-08-28, 20:00:00, 2025-08-28, 21:00:00, "Chat and question session on mastodon", "https://cupoftea.social/@MakersHour", , 
-Makers Hour, 2025-09-04, 20:00:00, 2025-09-04, 21:00:00, "Chat and question session on mastodon", "https://cupoftea.social/@MakersHour", , 
-Makers Hour, 2025-09-11, 20:00:00, 2025-09-11, 21:00:00, "Chat and question session on mastodon", "https://cupoftea.social/@MakersHour", , 
-Makers Hour, 2025-09-18, 20:00:00, 2025-09-18, 21:00:00, "Chat and question session on mastodon", "https://cupoftea.social/@MakersHour", , 
-Makers Hour, 2025-09-25, 20:00:00, 2025-09-25, 21:00:00, "Chat and question session on mastodon", "https://cupoftea.social/@MakersHour", , 
-Makers Hour, 2025-10-02, 20:00:00, 2025-10-02, 21:00:00, "Chat and question session on mastodon", "https://cupoftea.social/@MakersHour", , 
-Makers Hour, 2025-10-09, 20:00:00, 2025-10-09, 21:00:00, "Chat and question session on mastodon", "https://cupoftea.social/@MakersHour", , 
-Makers Hour, 2025-10-16, 20:00:00, 2025-10-16, 21:00:00, "Chat and question session on mastodon", "https://cupoftea.social/@MakersHour", , 
-Makers Hour, 2025-10-23, 20:00:00, 2025-10-23, 21:00:00, "Chat and question session on mastodon", "https://cupoftea.social/@MakersHour", , 
-Makers Hour, 2025-10-30, 20:00:00, 2025-10-30, 21:00:00, "Chat and question session on mastodon", "https://cupoftea.social/@MakersHour", , 
-Makers Hour, 2025-11-06, 20:00:00, 2025-11-06, 21:00:00, "Chat and question session on mastodon", "https://cupoftea.social/@MakersHour", , 
-Makers Hour, 2025-11-13, 20:00:00, 2025-11-13, 21:00:00, "Chat and question session on mastodon", "https://cupoftea.social/@MakersHour", , 
-Makers Hour, 2025-11-20, 20:00:00, 2025-11-20, 21:00:00, "Chat and question session on mastodon", "https://cupoftea.social/@MakersHour", , 
-Makers Hour, 2025-11-27, 20:00:00, 2025-11-27, 21:00:00, "Chat and question session on mastodon", "https://cupoftea.social/@MakersHour", , 
-Makers Hour, 2025-12-04, 20:00:00, 2025-12-04, 21:00:00, "Chat and question session on mastodon", "https://cupoftea.social/@MakersHour", , 
-Makers Hour, 2025-12-11, 20:00:00, 2025-12-11, 21:00:00, "Chat and question session on mastodon", "https://cupoftea.social/@MakersHour", , 
-Makers Hour, 2025-12-18, 20:00:00, 2025-12-18, 21:00:00, "Chat and question session on mastodon", "https://cupoftea.social/@MakersHour", , 
-Makers Hour, 2025-12-25, 20:00:00, 2025-12-25, 21:00:00, "Chat and question session on mastodon", "https://cupoftea.social/@MakersHour", , 
-
-Gauss Fest, 2025-09-07, 10:00:00, 2025-09-07, 16:00:00, "Discover the fascinating world of electricity at Gaussfest! A public demonstration of Tesla Coils, High Voltage Multiplies, Van De Graffs, and Violet Ray Machines. Experience indoor lightning and magnificent light shows!", https://www.extremeelectronics.co.uk/the-gaussfest/, 51.488887, -0.290400
-
-Makers Central, 2026-05-16, 10:00:00, 2026-05-16, 17:30:00, "A fun family event for creators, makers and hobbyists!", "https://www.makerscentral.co.uk/", 52.4512, -1.7212
-Makers Central, 2026-05-17, 10:00:00, 2026-05-17, 16:30:00, "A fun family event for creators, makers and hobbyists!", "https://www.makerscentral.co.uk/", 52.4512, -1.7212
-
-
-
-Tech Talks Pesda, 2025-07-30, 18:30, 2025-07-30, 20:30:00, "Ymunwch â ni yng Nghanolfan Cefnfaes rhwng 6.30 ac 8.30pm ar nos Fercher 30 Gorffennaf am amrywiaeth o sgyrsiau sy'n ymwneud â thechnoleg a rhwydweithio. Eisiau rhoi cyflwyniad? Oes gennych chi rywbeth i'w rannu? Cysylltwch â ni!
-
-Join us at Canolfan Cefnfaes between 6.30 and 8.30pm on Wednesday the 30th July for a range of tech related talks and networking. Want to talk? Got something to share? Get in touch!", https://www.eventbrite.co.uk/e/tech-talks-pesda-tickets-1446947301329, 53.181196, -4.064392
-
-Alpaca Festival Sheffield, 2025-09-12, 10:00, 2025-09-14, 23:00:00, "The festival of Algorithmic Patterns in the Creative Arts. If you are curious about strange patterns in different forms then this one is for you! There'll be a top notch algorave with people writing code to make electronic dance music, also a concert with pattern-based instrumental music and closing party that'll be a blend of the two. There will also be loads of talks about different kinds of strange patterns. We'll announce the hands-on workshops soon too - ~10 different workshops to choose from around patterns in juggling, textiles, music etc. A mix of heritage/craft workshops and more tech-infused ones. It'll be a bit unfashionable in having little or no AI stuff. Any algorithms involved will be wholesomely handmade by humans, whether ancient procedures from craft/music practice or live coding/algorave. There'll also be an online conference running through the event and into the following weekend, with watch parties in Berlin and Sheffield.", https://2025.algorithmicpattern.org/sheffield/, 53.3708757, -1.4768827
-
-Rutherford Appleton Laboratory: Public Access Day, 2025-08-01, 09:00:00, 2025-08-01, 16:30:00, "This summer, we are delighted to be able to run an access day at the laboratory - giving people and families the chance to see and experience science up close, from the smallest building blocks of our universe, right up to the vast scales of space.  There will be a morning (09:30-12:00) and an afternoon session (14:00-16:30), with interactive workshops and hands-on activities for those with younger children, and tours and talks for older groups. All sessions will start with a short introduction to the lab. Please only book on the morning or afternoon session. After selecting your tickets, you'll be able to choose which tour, or interactive workshop, you'd like to attend - although please do note that as a working lab we do occasionally have to change our schedules at the last minute.  We're really looking forward to welcoming you to the lab! If you can't make it in person, please do join us online, where we'll be streaming our talks (and live links to CERN, home to the largest experiment in the world!) live.", https://www.eventbrite.co.uk/e/rutherford-appleton-laboratory-public-access-day-tickets-1409230258639, 51.5745237, -1.3173182
-
-Barcamp Surrey, 2026-04-11, 09:00:00, 2026-04-11, 17:30:00, "A Technology 'Open Forum' in the Heart of Surrey. Everyone is encouraged to attend—whether to simply listen or to actively participate by giving a talk. Talks can cover any topic you think others might find interesting, whether it’s about a hobby, something you’ve created, or even a technical or non-technical subject. It’s all about fostering curiosity and community engagement!", https://barcampsurrey.org/, 51.176197, -0.6196609
-
-OggCamp 2026, 2026-04-25, 10:00:00, 2026-04-26, 16:00:00, "An unconference celebrating Free Culture, Free and Open Source Software, hardware hacking, digital rights, and all manner of collaborative cultural activities.", https://oggcamp.org/, 53.473704, -2.235417
-
-Electromagnetic Field 2026, 2026-07-16, 10:00:00, 2026-07-19, 20:00:00, "Electromagnetic Field is a non-profit camping festival for those with an inquisitive mind or an interest in making things: hackers, artists, geeks, crafters, scientists, and engineers.", https://www.emfcamp.org/, 52.041100, -2.378400
+Join us at Canolfan Cefnfaes between 6.30 and 8.30pm on Wednesday the 30th July for a range of tech related talks and networking. Want to talk? Got something to share? Get in touch!",https://www.eventbrite.co.uk/e/tech-talks-pesda-tickets-1446947301329,53.181196,-4.064392
+Makers Hour,2025-07-31,20:00:00,2025-07-31,21:00:00,Chat and question session on mastodon,https://cupoftea.social/@MakersHour,,
+Rutherford Appleton Laboratory: Public Access Day,2025-08-01,09:00:00,2025-08-01,16:30:00,"This summer, we are delighted to be able to run an access day at the laboratory - giving people and families the chance to see and experience science up close, from the smallest building blocks of our universe, right up to the vast scales of space.  There will be a morning (09:30-12:00) and an afternoon session (14:00-16:30), with interactive workshops and hands-on activities for those with younger children, and tours and talks for older groups. All sessions will start with a short introduction to the lab. Please only book on the morning or afternoon session. After selecting your tickets, you'll be able to choose which tour, or interactive workshop, you'd like to attend - although please do note that as a working lab we do occasionally have to change our schedules at the last minute.  We're really looking forward to welcoming you to the lab! If you can't make it in person, please do join us online, where we'll be streaming our talks (and live links to CERN, home to the largest experiment in the world!) live.",https://www.eventbrite.co.uk/e/rutherford-appleton-laboratory-public-access-day-tickets-1409230258639,51.5745237,-1.3173182
+Makers Hour,2025-08-07,20:00:00,2025-08-07,21:00:00,Chat and question session on mastodon,https://cupoftea.social/@MakersHour,,
+Makers Hour,2025-08-14,20:00:00,2025-08-14,21:00:00,Chat and question session on mastodon,https://cupoftea.social/@MakersHour,,
+Didcot repair cafe,2025-08-16,14:00:00,2025-08-16,17:00:00,"Volunteer repair and help fixing clothes, electronics, tools, and all sorts of other things",,51.610007,-1.241605
+Makers Hour,2025-08-21,20:00:00,2025-08-21,21:00:00,Chat and question session on mastodon,https://cupoftea.social/@MakersHour,,
+Makers Hour,2025-08-28,20:00:00,2025-08-28,21:00:00,Chat and question session on mastodon,https://cupoftea.social/@MakersHour,,
+Makers Hour,2025-09-04,20:00:00,2025-09-04,21:00:00,Chat and question session on mastodon,https://cupoftea.social/@MakersHour,,
+Gauss Fest,2025-09-07,10:00:00,2025-09-07,16:00:00,"Discover the fascinating world of electricity at Gaussfest! A public demonstration of Tesla Coils, High Voltage Multiplies, Van De Graffs, and Violet Ray Machines. Experience indoor lightning and magnificent light shows!",https://www.extremeelectronics.co.uk/the-gaussfest/,51.488887,-0.290400
+Makers Hour,2025-09-11,20:00:00,2025-09-11,21:00:00,Chat and question session on mastodon,https://cupoftea.social/@MakersHour,,
+Alpaca Festival Sheffield,2025-09-12,10:00,2025-09-14,23:00:00,"The festival of Algorithmic Patterns in the Creative Arts. If you are curious about strange patterns in different forms then this one is for you! There'll be a top notch algorave with people writing code to make electronic dance music, also a concert with pattern-based instrumental music and closing party that'll be a blend of the two. There will also be loads of talks about different kinds of strange patterns. We'll announce the hands-on workshops soon too - ~10 different workshops to choose from around patterns in juggling, textiles, music etc. A mix of heritage/craft workshops and more tech-infused ones. It'll be a bit unfashionable in having little or no AI stuff. Any algorithms involved will be wholesomely handmade by humans, whether ancient procedures from craft/music practice or live coding/algorave. There'll also be an online conference running through the event and into the following weekend, with watch parties in Berlin and Sheffield.",https://2025.algorithmicpattern.org/sheffield/,53.3708757,-1.4768827
+Makers Hour,2025-09-18,20:00:00,2025-09-18,21:00:00,Chat and question session on mastodon,https://cupoftea.social/@MakersHour,,
+Didcot repair cafe,2025-09-20,14:00:00,2025-09-20,17:00:00,"Volunteer repair and help fixing clothes, electronics, tools, and all sorts of other things",,51.610007,-1.241605
+Makers Hour,2025-09-25,20:00:00,2025-09-25,21:00:00,Chat and question session on mastodon,https://cupoftea.social/@MakersHour,,
+Makers Hour,2025-10-02,20:00:00,2025-10-02,21:00:00,Chat and question session on mastodon,https://cupoftea.social/@MakersHour,,
+Makers Hour,2025-10-09,20:00:00,2025-10-09,21:00:00,Chat and question session on mastodon,https://cupoftea.social/@MakersHour,,
+Makers Hour,2025-10-16,20:00:00,2025-10-16,21:00:00,Chat and question session on mastodon,https://cupoftea.social/@MakersHour,,
+Didcot repair cafe,2025-10-18,14:00:00,2025-10-18,17:00:00,"Volunteer repair and help fixing clothes, electronics, tools, and all sorts of other things",,51.610007,-1.241605
+Makers Hour,2025-10-23,20:00:00,2025-10-23,21:00:00,Chat and question session on mastodon,https://cupoftea.social/@MakersHour,,
+Makers Hour,2025-10-30,20:00:00,2025-10-30,21:00:00,Chat and question session on mastodon,https://cupoftea.social/@MakersHour,,
+Makers Hour,2025-11-06,20:00:00,2025-11-06,21:00:00,Chat and question session on mastodon,https://cupoftea.social/@MakersHour,,
+Makers Hour,2025-11-13,20:00:00,2025-11-13,21:00:00,Chat and question session on mastodon,https://cupoftea.social/@MakersHour,,
+Didcot repair cafe,2025-11-15,14:00:00,2025-11-15,17:00:00,"Volunteer repair and help fixing clothes, electronics, tools, and all sorts of other things",,51.610007,-1.241605
+Makers Hour,2025-11-20,20:00:00,2025-11-20,21:00:00,Chat and question session on mastodon,https://cupoftea.social/@MakersHour,,
+Makers Hour,2025-11-27,20:00:00,2025-11-27,21:00:00,Chat and question session on mastodon,https://cupoftea.social/@MakersHour,,
+Makers Hour,2025-12-04,20:00:00,2025-12-04,21:00:00,Chat and question session on mastodon,https://cupoftea.social/@MakersHour,,
+Makers Hour,2025-12-11,20:00:00,2025-12-11,21:00:00,Chat and question session on mastodon,https://cupoftea.social/@MakersHour,,
+Makers Hour,2025-12-18,20:00:00,2025-12-18,21:00:00,Chat and question session on mastodon,https://cupoftea.social/@MakersHour,,
+Didcot repair cafe,2025-12-20,14:00:00,2025-12-20,17:00:00,"Volunteer repair and help fixing clothes, electronics, tools, and all sorts of other things",,51.610007,-1.241605
+Makers Hour,2025-12-25,20:00:00,2025-12-25,21:00:00,Chat and question session on mastodon,https://cupoftea.social/@MakersHour,,
+Meet the Home Assistant team,2026-02-25,18:00:00,2026-02-25,21:00:00,"An evening with the Home Assistant team, in London",https://luma.com/rqbermeo,51.5074,-0.1278
+Cambridge Raspberry Jam,2026-02-28,10:00:00,2026-02-28,17:00:00,"Raspberry Pi birthday celebration at Makespace Cambridge, in the heart of the city",https://camjam.me/,52.1974,0.1217
+BeetleBrawl,2026-02-28,10:00:00,2026-02-28,17:00:00,Robot combat event at Bristol Bot Builders,https://bristolbotbuilders.com/brawl/,51.4545,-2.5879
+SMRRF,2026-03-07,10:00:00,2026-03-08,17:00:00,Sanjay Mortimer RepRap Festival - UK's largest 3D printing event,https://www.eventbrite.co.uk/e/smrrf-2026-the-uks-largest-3d-printing-festival-tickets-1371179407519,53.4808,-2.2426
+Hacky Racers Robotic Racing Series,2026-04-18,10:00:00,2026-04-19,17:00:00,Robotic racing event - always entertaining!,https://hackyracers.co.uk/robotic-racing-series/,52.0383,0.7289
+OggCamp 2026,2026-04-25,10:00:00,2026-04-26,16:00:00,"An unconference celebrating Free Culture, Free and Open Source Software, hardware hacking, digital rights, and all manner of collaborative cultural activities.",https://oggcamp.org/,53.473704,-2.235417
+Wirral MakeFest 2026,2026-04-25,10:00:00,2026-04-25,17:00:00,"A showcase of imagination and skill, featuring hands-on activities, robotics, traditional crafts, and repair demonstrations",https://wirralmakefest.org/,53.3932,-3.0142
+Makers Central,2026-05-16,10:00:00,2026-05-17,17:30:00,"A fun family event for creators, makers and hobbyists!",https://www.makerscentral.co.uk/,52.4512,-1.7212
+Retrofest,2026-05-30,10:00:00,2026-05-31,17:00:00,Retro computing and gaming festival,https://www.retrofest.uk/,51.5558,-1.7797
+Hardware Pioneers Max,2026-06-10,10:00:00,2026-06-11,17:00:00,"Big commercial exhibition for electronics, IoT connectivity, and embedded systems.",https://www.hardwarepioneers.com/,51.5090,0.0387
+HackWimbledon June 2026 #1,2026-06-14,12:00:00,2026-06-14,16:00:00,"Come along to Wimbletech for more making, coding, and chat.",https://luma.com/imhuuoq5,51.4213,-0.2060
+RCM Awesome World Famous Legendary Gathering,2026-06-20,10:00:00,2026-06-20,17:00:00,Retro Computer Museum's gathering of retro computing enthusiasts,https://retrocomputermuseum.co.uk/events/legendary-gathering-20-06-26/?occurrence=2026-06-20,52.6369,-1.1398
+HackWimbledon June 2026 #2,2026-06-28,12:00:00,2026-06-28,16:00:00,"Come along to Wimbletech for more making, coding, and chat.",https://luma.com/so809jxi,51.4213,-0.2060
+HackWimbledon July 2026 #1,2026-07-12,12:00:00,2026-07-12,16:00:00,"Come along to Wimbletech for more making, coding, and chat.",https://luma.com/2kv486ai,51.4213,-0.2060
+Electromagnetic Field 2026,2026-07-16,10:00:00,2026-07-19,20:00:00,"Electromagnetic Field is a non-profit camping festival for those with an inquisitive mind or an interest in making things: hackers, artists, geeks, crafters, scientists, and engineers.",https://www.emfcamp.org/,52.041100,-2.378400
+HackWimbledon July 2026 #2,2026-07-26,12:00:00,2026-07-26,16:00:00,"Come along to Wimbletech for more making, coding, and chat.",https://luma.com/mwyx1np1,51.4213,-0.2060
+Open Source Hardware Camp (OSHCamp),2026-08-29,09:00:00,2026-08-30,17:00:00,A weekend event for open source hardware enthusiasts,https://lists.oshug.org/hyperkitty/list/oshug@oshug.org/thread/EGIO6P7OG2BETP7B3EZCODPNDQDQUBIX/,53.7432,-2.0107
+Vintage Computer Festival (VCF) GB,2026-09-11,10:00:00,2026-09-13,17:00:00,Retro computing festival,https://www.vintagecomputerfestival.org.uk/event/vintage-computer-festival-gb-2026/,53.4771,-2.9432

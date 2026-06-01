@@ -1,10 +1,10 @@
 Name, Start date, Start time, End date, End Time, Description, URL, Latitude, Longitude
 Didcot repair cafe, 2025-07-19, 14:00:00, 2025-07-19, 17:00:00, "Volunteer repair and help fixing clothes, electronics, tools, and all sorts of other things", "", 51.610007, -1.241605
-Test Event 1, 2025-07-20, 10:00:00, 2025-07-20, 12:00:00, "A test event with a url but no lat/lon", "https://example.com/test_page.html", , 
-Test Event 2, 2025-07-20, 10:00:00, 2025-07-20, 12:00:00, "A test event with a url but no lat/lon", "https://example.com/test_page.html", , 
-Test Event 3, 2025-07-20, 10:00:00, 2025-07-20, 12:00:00, "A test event with a url but no lat/lon", "https://example.com/test_page.html", , 
-Test Event 4, 2025-07-20, 10:00:00, 2025-07-20, 12:00:00, "A test event with a url but no lat/lon", "https://example.com/test_page.html", , 
-Test Event 5, 2025-07-20, 10:00:00, 2025-07-20, 12:00:00, "A test event with a url but no lat/lon", "https://example.com/test_page.html", , 
-Test Event 6, 2025-07-20, 10:00:00, 2025-07-20, 12:00:00, "A test event with a url but no lat/lon", "https://example.com/test_page.html", , 
-Test Event 7, 2025-07-20, 10:00:00, 2025-07-20, 12:00:00, "A test event with a url but no lat/lon", "https://example.com/test_page.html", , 
-MutliDayEvent, 2025-07-01, 10:00:00, 2025-08-12, 11:00:00, "a very long event", , , 
+Test Event 1, 2025-07-20, 10:00:00, 2025-07-20, 12:00:00, "A test event with a url but no lat/lon", "https://example.com/test_page.html", ,
+Test Event 2, 2025-07-20, 10:00:00, 2025-07-20, 12:00:00, "A test event with a url but no lat/lon", "https://example.com/test_page.html", ,
+Test Event 3, 2025-07-20, 10:00:00, 2025-07-20, 12:00:00, "A test event with a url but no lat/lon", "https://example.com/test_page.html", ,
+Test Event 4, 2025-07-20, 10:00:00, 2025-07-20, 12:00:00, "A test event with a url but no lat/lon", "https://example.com/test_page.html", ,
+Test Event 5, 2025-07-20, 10:00:00, 2025-07-20, 12:00:00, "A test event with a url but no lat/lon", "https://example.com/test_page.html", ,
+Test Event 6, 2025-07-20, 10:00:00, 2025-07-20, 12:00:00, "A test event with a url but no lat/lon", "https://example.com/test_page.html", ,
+Test Event 7, 2025-07-20, 10:00:00, 2025-07-20, 12:00:00, "A test event with a url but no lat/lon", "https://example.com/test_page.html", ,
+MultiDayEvent, 2025-07-01, 10:00:00, 2025-08-12, 11:00:00, "a very long event", , ,
