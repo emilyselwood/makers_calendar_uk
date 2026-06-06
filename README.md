@@ -16,7 +16,7 @@ Assembled using [Calendar Page](https://github.com/emilyselwood/calendar_page)
 * In the issue text make sure you include the following information
   * Name
   * Description
-  * Start date and time
+  * Start date and time (in the uk timezone at the time of the event, UTC or BST as appropriate)
   * End date and time
   * A url to find more information, or to sign up
   * Latitude and longitude coordinates if the event has a location
@@ -31,7 +31,7 @@ Assembled using [Calendar Page](https://github.com/emilyselwood/calendar_page)
 * Fill in the fields matching the header at the top of the file.
   * Name
   * Start date
-  * Start time
+  * Start time (in the uk timezone at the time of the event, UTC or BST as appropriate)
   * End date (can be a different day to the start date, the event will be shown on every day between the two)
   * End time
   * Description
