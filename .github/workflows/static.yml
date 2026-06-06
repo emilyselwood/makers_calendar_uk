@@ -31,13 +31,21 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v4
+      - name: Install rust
+        uses: actions-rs/toolchain@v1
+      - name: Install csv_to_ics
+        uses: actions-rs/cargo@v1
+        with:
+          command: install
+          args: csv_to_ics
+      - run: csv_to_ics events.csv events.ics
       - name: Setup Pages
         uses: actions/configure-pages@v5
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
           # Upload entire repository
-          path: '.'
+          path: "."
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v4
