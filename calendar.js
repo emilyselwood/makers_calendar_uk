@@ -86,7 +86,11 @@ function applyConfig() {
         linkEl.href = config.repo;
     } else {
         linkEl.href = "";
-        linkEl.style.display = 'none';
+        linkEl.style.display = "none";
+    }
+    if (!config.showIcsLink || config.showIcsLink != "true") {
+      const icsLinkEl = document.getElementById("ics_link_div")
+      icsLinkEl.style.display = "none";
     }
 }
 
@@ -143,9 +147,7 @@ async function init() {
 
     createMonthGrid(year, month, function (el, date) {
         const dateStr = format_date(date);
-        console.log(dateStr);
         if (dateStr in events) {
-            console.log(date);
             for (let i = 0; i < events[dateStr].length; i++) {
                 const event = events[dateStr][i];
                 let eventEl = document.createElement("div");

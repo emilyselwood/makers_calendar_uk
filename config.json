@@ -1,6 +1,7 @@
 {
-    "name": "Makers Calendar UK",
-    "repo": "https://github.com/emilyselwood/makers_calendar_uk",
-    "description": "A calendar of uk maker events",
-    "showUpdateLink": "true"
+  "name": "Makers Calendar UK",
+  "repo": "https://github.com/emilyselwood/makers_calendar_uk",
+  "description": "A calendar of uk maker events",
+  "showUpdateLink": "true",
+  "showIcsLink": "true"
 }
